@@ -1,0 +1,7 @@
+C:\Users\ASUSV\Downloads\C#\Boolean Data Types\Bool\bin\Debug\Bool.exe.config
+C:\Users\ASUSV\Downloads\C#\Boolean Data Types\Bool\bin\Debug\Bool.exe
+C:\Users\ASUSV\Downloads\C#\Boolean Data Types\Bool\bin\Debug\Bool.pdb
+C:\Users\ASUSV\Downloads\C#\Boolean Data Types\Bool\obj\Debug\Bool.csproj.AssemblyReference.cache
+C:\Users\ASUSV\Downloads\C#\Boolean Data Types\Bool\obj\Debug\Bool.csproj.CoreCompileInputs.cache
+C:\Users\ASUSV\Downloads\C#\Boolean Data Types\Bool\obj\Debug\Bool.exe
+C:\Users\ASUSV\Downloads\C#\Boolean Data Types\Bool\obj\Debug\Bool.pdb
