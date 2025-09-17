@@ -1,0 +1,8 @@
+C:\Users\ASUSV\Downloads\C#\Remainder\Modulus\bin\Debug\Modulus.exe.config
+C:\Users\ASUSV\Downloads\C#\Remainder\Modulus\bin\Debug\Modulus.exe
+C:\Users\ASUSV\Downloads\C#\Remainder\Modulus\bin\Debug\Modulus.pdb
+C:\Users\ASUSV\Downloads\C#\Remainder\Modulus\obj\Debug\Modulus.csproj.AssemblyReference.cache
+C:\Users\ASUSV\Downloads\C#\Remainder\Modulus\obj\Debug\Modulus.csproj.CoreCompileInputs.cache
+C:\Users\ASUSV\Downloads\C#\Remainder\Modulus\obj\Debug\Modulus.exe
+C:\Users\ASUSV\Downloads\C#\Remainder\Modulus\obj\Debug\Modulus.pdb
+C:\Users\ASUSV\Downloads\C#\Remainder\Modulus\obj\Debug\Modulus.exe.config
