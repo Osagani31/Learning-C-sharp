@@ -1,0 +1,7 @@
+C:\Users\ASUSV\Downloads\C#\Var Keywords\var keyword\bin\Debug\var keyword.exe.config
+C:\Users\ASUSV\Downloads\C#\Var Keywords\var keyword\bin\Debug\var keyword.exe
+C:\Users\ASUSV\Downloads\C#\Var Keywords\var keyword\bin\Debug\var keyword.pdb
+C:\Users\ASUSV\Downloads\C#\Var Keywords\var keyword\obj\Debug\var keyword.csproj.AssemblyReference.cache
+C:\Users\ASUSV\Downloads\C#\Var Keywords\var keyword\obj\Debug\var keyword.csproj.CoreCompileInputs.cache
+C:\Users\ASUSV\Downloads\C#\Var Keywords\var keyword\obj\Debug\var keyword.exe
+C:\Users\ASUSV\Downloads\C#\Var Keywords\var keyword\obj\Debug\var keyword.pdb
